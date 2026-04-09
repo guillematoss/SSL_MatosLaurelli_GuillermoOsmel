@@ -1,0 +1,1 @@
+Este primer trabajo práctico constará de realizar un programa que imprime "Hola mundo", a modo de probar el correcto uso de Git, GitHub y entorno de desarrollo.
